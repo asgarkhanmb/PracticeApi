@@ -1,0 +1,11 @@
+2024-06-27 02:49:35.141 +04:00  INF  Application started. Press Ctrl+C to shut down.
+2024-06-27 02:49:35.161 +04:00  INF  Request starting HTTP/2 GET https://localhost:44300/swagger/index.html - -
+2024-06-27 02:49:35.174 +04:00  INF  Hosting environment: Development
+2024-06-27 02:49:35.174 +04:00  INF  Content root path: C:\Users\Əsgərxan\Desktop\ApplicationAPI\ApplicationAPI\
+2024-06-27 02:49:35.383 +04:00  INF  Request finished HTTP/2 GET https://localhost:44300/swagger/index.html - - - 200 - text/html;charset=utf-8 227.7959ms
+2024-06-27 02:49:35.391 +04:00  INF  Request starting HTTP/2 GET https://localhost:44300/_framework/aspnetcore-browser-refresh.js - -
+2024-06-27 02:49:35.391 +04:00  INF  Request starting HTTP/2 GET https://localhost:44300/_vs/browserLink - -
+2024-06-27 02:49:35.396 +04:00  INF  Request finished HTTP/2 GET https://localhost:44300/_framework/aspnetcore-browser-refresh.js - - - 200 11998 application/javascript;+charset=utf-8 5.0582ms
+2024-06-27 02:49:35.439 +04:00  INF  Request finished HTTP/2 GET https://localhost:44300/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 47.6667ms
+2024-06-27 02:49:35.712 +04:00  INF  Request starting HTTP/2 GET https://localhost:44300/swagger/v1/swagger.json - -
+2024-06-27 02:49:35.818 +04:00  INF  Request finished HTTP/2 GET https://localhost:44300/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 106.4461ms
